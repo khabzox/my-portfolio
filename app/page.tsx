@@ -1,5 +1,11 @@
+import { Button } from "@/components/ui/button";
+
 export default function Home() {
   return (
-    <h1>Test commit</h1>
+    <div>
+      <Button>
+        Click Me!
+      </Button>
+    </div>
   );
 }
