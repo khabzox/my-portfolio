@@ -43,14 +43,14 @@
 
 :root {
   --radius: 0.625rem;
-  --background: #dfe0e2;
+  --background: #f3f3f3;
   --foreground: #071013;
-  --card: #dfe0e2;
+  --card: #f3f3f3;
   --card-foreground: #071013;
-  --popover: #dfe0e2;
+  --popover: #f3f3f3;
   --popover-foreground: #071013;
   --primary: #071013;
-  --primary-foreground: #dfe0e2;
+  --primary-foreground: #f3f3f3;
   --secondary: #c5c5c6;
   --secondary-foreground: #071013;
   --muted: #c5c5c6;
